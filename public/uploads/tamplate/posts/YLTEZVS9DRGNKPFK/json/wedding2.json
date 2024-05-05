@@ -1,0 +1,137 @@
+{
+	"name":"wedding2",
+	"path":" wedding2/",
+	"info":{
+		"description":"Normal",
+		"file":"wedding2",
+		"date":"Uncalibrated",
+		"title":"",
+		"author":"",
+		"keywords":"",
+		"generator":"Export Kit v1.2.8"
+	},
+	"layers":[
+		{ 
+			"type":"image",  
+			"src":"../skins/wedding2/background.png", 
+			"name":"background", 
+			"x":0, 
+			"y":0, 
+			"width":2480, 
+			"height":3503  
+		},
+		{ 
+			"type":"text", 
+			"font":"Roboto-Light",
+			"justification":"center",
+			"lineHeight":134,
+			"color":"0x414141", 
+			"size":78, 
+			"name":"name", 
+			"x":1129, 
+			"y":2347, 
+			"width":223, 
+			"height":56 , 
+			"text":"Venue"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Domine-Regular",
+			"justification":"center",
+			"lineHeight":134,
+			"color":"0x414141", 
+			"size":125, 
+			"name":"name_1", 
+			"x":789, 
+			"y":2074, 
+			"width":902, 
+			"height":121 , 
+			"text":"20th July 2020"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Roboto-Regular",
+			"justification":"left",
+			"lineHeight":134,
+			"color":"0x414141", 
+			"size":117, 
+			"name":"name_2", 
+			"x":1174, 
+			"y":1890, 
+			"width":131, 
+			"height":85 , 
+			"text":"On"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Roboto-Light",
+			"justification":"center",
+			"lineHeight":134,
+			"color":"0x414141", 
+			"size":78, 
+			"name":"name_3", 
+			"x":1100, 
+			"y":2687, 
+			"width":280, 
+			"height":57 , 
+			"text":"Contact"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Domine-Regular",
+			"justification":"center",
+			"lineHeight":80,
+			"color":"0x414141", 
+			"size":68, 
+			"name":"name_4", 
+			"x":760, 
+			"y":2459, 
+			"width":959, 
+			"height":142 , 
+			"text":"3,000-Cap Indoor Club Space\rLondon"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Domine-Regular",
+			"justification":"center",
+			"lineHeight":80,
+			"color":"0x414141", 
+			"size":68, 
+			"name":"name_5", 
+			"x":990, 
+			"y":2800, 
+			"width":500, 
+			"height":53 , 
+			"text":"+ 012 354 56974"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Domine-Regular",
+			"justification":"center",
+			"lineHeight":147,
+			"color":"0x414141", 
+			"size":196, 
+			"name":"name_6", 
+			"x":916, 
+			"y":1202, 
+			"width":647, 
+			"height":589 , 
+			"text":"Jaime\r&\rNatalia"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Roboto-Light",
+			"justification":"center",
+			"lineHeight":134,
+			"color":"0x414141", 
+			"size":75, 
+			"name":"name_7", 
+			"x":713, 
+			"y":930, 
+			"width":1054, 
+			"height":156 , 
+			"text":"Honour us with your presence at\rwedding ceremony of"  
+		}
+
+	]
+}

@@ -1,0 +1,36 @@
+Output Logs [8/8/2023, 4:46:19 PM]
+[TIME] 00:00:19		[PSD] birthday1
+[LAYERS] 8  		[LPI] 0.40
+[FIXES] 0   		[WARNINGS] 0
+[+]----------------- START -------------------[+]
+1.    Exporting...
+2.    [PSD] [birthday1.psd]
+3.    [SIZE] [width:2475,height:3508]
+4.    [LAYER] [IMAGE] [background]
+5.    [OK] Layer Processed.
+6.    Saving Layer as Image...
+7.    [SAVED]
+8.    [LAYER] [IMAGE] [logo]
+9.    [OK] Layer Processed.
+10.   Saving Layer as Image...
+11.   [SAVED]
+12.   [LAYER] [IMAGE] [background]
+13.   [OK] Layer Processed.
+14.   Saving Layer as Image...
+15.   [SAVED]
+16.   [LAYER] [TEXT] [name]
+17.   [OK] Layer Processed.
+18.   [LAYER] [TEXT] [name]
+19.   [OK] Layer Processed.
+20.   [LAYER] [TEXT] [name]
+21.   [OK] Layer Processed.
+22.   [LAYER] [TEXT] [name]
+23.   [OK] Layer Processed.
+24.   [LAYER] [TEXT] [name]
+25.   [OK] Layer Processed.
+26.   [COMPLETE] [birthday1]
+27.   [API] Encoding Data 
+28.   Building Project files...
+29.   [SAVING] [birthday1.json]
+30.   [DONE] All Done...
+[+]------------------ DONE -------------------[+]

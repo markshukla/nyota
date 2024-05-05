@@ -1,0 +1,30 @@
+Output Logs [8/8/2023, 5:56:48 PM]
+[TIME] 00:00:08		[PSD] bday2
+[LAYERS] 6  		[LPI] 0.71
+[FIXES] 0   		[WARNINGS] 0
+[+]----------------- START -------------------[+]
+1.    Exporting...
+2.    [PSD] [bday2.psd]
+3.    [SIZE] [width:3556,height:2000]
+4.    [LAYER] [IMAGE] [background]
+5.    [OK] Layer Processed.
+6.    Saving Layer as Image...
+7.    [SAVED]
+8.    [LAYER] [IMAGE] [image]
+9.    [OK] Layer Processed.
+10.   Saving Layer as Image...
+11.   [SAVED]
+12.   [LAYER] [TEXT] [name]
+13.   [OK] Layer Processed.
+14.   [LAYER] [TEXT] [name]
+15.   [OK] Layer Processed.
+16.   [LAYER] [TEXT] [name]
+17.   [OK] Layer Processed.
+18.   [LAYER] [TEXT] [name]
+19.   [OK] Layer Processed.
+20.   [COMPLETE] [bday2]
+21.   [API] Encoding Data 
+22.   Building Project files...
+23.   [SAVING] [bday2.json]
+24.   [DONE] All Done...
+[+]------------------ DONE -------------------[+]

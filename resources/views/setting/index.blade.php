@@ -54,12 +54,12 @@
                     <span class="ms-2">Storage</span>
                   </a>
                 </li>
-                <li class="nav-item">
+                {{-- <li class="nav-item">
                   <a class="nav-link mb-0 px-0 py-1 d-flex align-items-center justify-content-center " data-bs-toggle="tab" role="tab" aria-selected="false" id="app_update_lay-tab" aria-controls="app_update_lay" href="#app_update_lay">
                     <i class="fa fa-mobile-alt"></i>
                     <span class="ms-2">Update</span>
                   </a>
-                </li>
+                </li> --}}
                 <li class="nav-item">
                   <a class="nav-link mb-0 px-0 py-1 d-flex align-items-center justify-content-center " data-bs-toggle="tab" role="tab" aria-selected="false" id="privacy_terms_lay-tab" aria-controls="privacy_terms_lay" href="#privacy_terms_lay">
                     <i class="fa fa-list-alt"></i>
@@ -426,12 +426,12 @@
                               </div>
                             </div>
                             
-                            <div class="col-md-12" >
+                            {{-- <div class="col-md-12" >
                                 <div class="form-check form-switch">
                                   <input class="form-check-input" name="auto_festival_notification" type="checkbox" @if(App\Models\Setting::getValue('auto_festival_notification')=='true') checked @endif>
                                   <label class="text-center form-check-label">Auto Festival Notification</label>
                                 </div>
-                            </div>
+                            </div> --}}
                             <hr>
                             <div class="col-md-6">
                               <div class="form-group">

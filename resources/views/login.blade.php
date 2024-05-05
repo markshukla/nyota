@@ -82,8 +82,9 @@
             
           </div>
         </div>
-        <div style="background-image: url({{ url('/images/posters.jpg') }});background-size: cover;" class="col-6 d-lg-flex h-100 position-absolute top-0 end-0 text-center justify-content-center flex-column" ></div>
-       </div>
+        {{-- <div style="background-image: url({{ url('/images/posters.jpg') }});background-size: cover;" class="col-6 d-lg-flex h-100 position-absolute top-0 end-0 text-center justify-content-center flex-column" ></div> --}}
+        <div class="col-6 d-lg-flex h-100 position-absolute top-0 end-0 text-center justify-content-center flex-column" ></div>
+      </div>
     </section>
   </main>
   

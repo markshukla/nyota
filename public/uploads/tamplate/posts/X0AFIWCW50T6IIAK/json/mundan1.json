@@ -1,0 +1,112 @@
+{
+	"name":"mundan1",
+	"path":" mundan1/",
+	"info":{
+		"description":"Normal",
+		"file":"mundan1",
+		"date":"Uncalibrated",
+		"title":"",
+		"author":"",
+		"keywords":"",
+		"generator":"Export Kit v1.2.8"
+	},
+	"layers":[
+		{ 
+			"type":"image",  
+			"src":"../skins/mundan1/background.png", 
+			"name":"background", 
+			"x":0, 
+			"y":0, 
+			"width":3556, 
+			"height":2000  
+		},
+		{ 
+			"type":"image",  
+			"src":"../skins/mundan1/image.png", 
+			"name":"image", 
+			"x":1838, 
+			"y":491, 
+			"width":1344, 
+			"height":1018  
+		},
+		{ 
+			"type":"image",  
+			"src":"../skins/mundan1/image_1.png", 
+			"name":"image_1", 
+			"x":2998, 
+			"y":1780, 
+			"width":231, 
+			"height":60  
+		},
+		{ 
+			"type":"text", 
+			"font":"Parisienne-Regular",
+			"justification":"left",
+			"lineHeight":125,
+			"color":"0x80692B", 
+			"size":100, 
+			"name":"name", 
+			"x":435, 
+			"y":1597, 
+			"width":768, 
+			"height":103 , 
+			"text":"Your Church Name"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Raleway-Regular",
+			"justification":"left",
+			"color":"0x80692B", 
+			"size":50, 
+			"name":"name_1", 
+			"x":435, 
+			"y":1284, 
+			"width":700, 
+			"height":158 , 
+			"text":"disse nec, placerat natoque tempor erat cursus at lectus montes "  
+		},
+		{ 
+			"type":"text", 
+			"font":"Parisienne-Regular",
+			"justification":"left",
+			"lineHeight":125,
+			"color":"0x80692B", 
+			"size":100, 
+			"name":"name_2", 
+			"x":435, 
+			"y":992, 
+			"width":767, 
+			"height":194 , 
+			"text":"Saturday May 4th. 12:00 hs."  
+		},
+		{ 
+			"type":"text", 
+			"font":"Roboto-Italic",
+			"justification":"left",
+			"lineHeight":100,
+			"color":"0x9B7F34", 
+			"size":138, 
+			"name":"name_3", 
+			"x":361, 
+			"y":605, 
+			"width":669, 
+			"height":134 , 
+			"text":"Harsh Singh"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Parisienne-Regular",
+			"justification":"left",
+			"lineHeight":100,
+			"color":"0x9B7F34", 
+			"size":183, 
+			"name":"name_4", 
+			"x":360, 
+			"y":385, 
+			"width":1291, 
+			"height":159 , 
+			"text":"Mundan Sanskar"  
+		}
+
+	]
+}

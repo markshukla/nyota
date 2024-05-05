@@ -1,0 +1,54 @@
+Output Logs [8/8/2023, 9:29:45 PM]
+[TIME] 00:00:22		[PSD] mundan2
+[LAYERS] 12  		[LPI] 0.54
+[FIXES] 0   		[WARNINGS] 0
+[+]----------------- START -------------------[+]
+1.    Exporting...
+2.    [PSD] [mundan2.psd]
+3.    [SIZE] [width:2480,height:3508]
+4.    [LAYER] [IMAGE] [background]
+5.    [OK] Layer Processed.
+6.    Saving Layer as Image...
+7.    [SAVED]
+8.    [LAYER] [IMAGE] [image]
+9.    [OK] Layer Processed.
+10.   Saving Layer as Image...
+11.   [SAVED]
+12.   [LAYER] [IMAGE] [Exposure_]
+13.   [OK] Layer Processed.
+14.   Saving Layer as Image...
+15.   [SAVED]
+16.   [LAYER] [IMAGE] [bgg]
+17.   [OK] Layer Processed.
+18.   Saving Layer as Image...
+19.   [SAVED]
+20.   [LAYER] [IMAGE] [image]
+21.   [OK] Layer Processed.
+22.   Saving Layer as Image...
+23.   [SAVED]
+24.   [LAYER] [IMAGE] [image]
+25.   [OK] Layer Processed.
+26.   Saving Layer as Image...
+27.   [SAVED]
+28.   [LAYER] [IMAGE] [image]
+29.   [OK] Layer Processed.
+30.   Saving Layer as Image...
+31.   [SAVED]
+32.   [LAYER] [IMAGE] [image]
+33.   [OK] Layer Processed.
+34.   Saving Layer as Image...
+35.   [SAVED]
+36.   [LAYER] [TEXT] [name]
+37.   [OK] Layer Processed.
+38.   [LAYER] [TEXT] [name]
+39.   [OK] Layer Processed.
+40.   [LAYER] [TEXT] [name]
+41.   [OK] Layer Processed.
+42.   [LAYER] [TEXT] [name]
+43.   [OK] Layer Processed.
+44.   [COMPLETE] [mundan2]
+45.   [API] Encoding Data 
+46.   Building Project files...
+47.   [SAVING] [mundan2.json]
+48.   [DONE] All Done...
+[+]------------------ DONE -------------------[+]

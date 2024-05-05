@@ -1,0 +1,32 @@
+Output Logs [8/8/2023, 6:01:20 PM]
+[TIME] 00:00:07		[PSD] wedding4
+[LAYERS] 8  		[LPI] 1.12
+[FIXES] 0   		[WARNINGS] 0
+[+]----------------- START -------------------[+]
+1.    Exporting...
+2.    [PSD] [wedding4.psd]
+3.    [SIZE] [width:1753,height:2480]
+4.    [LAYER] [IMAGE] [background]
+5.    [OK] Layer Processed.
+6.    Saving Layer as Image...
+7.    [SAVED]
+8.    [LAYER] [TEXT] [name]
+9.    [OK] Layer Processed.
+10.   [LAYER] [TEXT] [name]
+11.   [OK] Layer Processed.
+12.   [LAYER] [TEXT] [name]
+13.   [OK] Layer Processed.
+14.   [LAYER] [TEXT] [name]
+15.   [OK] Layer Processed.
+16.   [LAYER] [TEXT] [name]
+17.   [OK] Layer Processed.
+18.   [LAYER] [TEXT] [name]
+19.   [OK] Layer Processed.
+20.   [LAYER] [TEXT] [name]
+21.   [OK] Layer Processed.
+22.   [COMPLETE] [wedding4]
+23.   [API] Encoding Data 
+24.   Building Project files...
+25.   [SAVING] [wedding4.json]
+26.   [DONE] All Done...
+[+]------------------ DONE -------------------[+]

@@ -1,0 +1,130 @@
+{
+	"name":"birthday1",
+	"path":" birthday1/",
+	"info":{
+		"description":"Normal",
+		"file":"birthday1",
+		"date":"Uncalibrated",
+		"title":"",
+		"author":"",
+		"keywords":"",
+		"generator":"Export Kit v1.2.8"
+	},
+	"layers":[
+		{ 
+			"type":"image",  
+			"src":"../skins/birthday1/background.png", 
+			"name":"background", 
+			"x":0, 
+			"y":0, 
+			"width":2475, 
+			"height":3508  
+		},
+		{ 
+			"type":"image",  
+			"src":"../skins/birthday1/logo.png", 
+			"name":"logo", 
+			"x":733, 
+			"y":936, 
+			"width":1000, 
+			"height":1338  
+		},
+		{ 
+			"type":"image",  
+			"src":"../skins/birthday1/background_1.png", 
+			"name":"background_1", 
+			"x":186, 
+			"y":808, 
+			"width":1853, 
+			"height":2071  
+		},
+		{ 
+			"type":"text", 
+			"font":"RozhaOne-Regular",
+			"justification":"center",
+			"uppercase":true,
+			"lineHeight":14,
+			"color":"0xB36E5D", 
+			"size":188, 
+			"name":"name", 
+			"x":1558, 
+			"y":2732, 
+			"width":359, 
+			"height":127 , 
+			"text":"2023"  
+		},
+		{ 
+			"type":"text", 
+			"font":"RozhaOne-Regular",
+			"justification":"center",
+			"uppercase":true,
+			"lineHeight":14,
+			"color":"0x7A4F4B", 
+			"size":342, 
+			"name":"name_1", 
+			"x":1087, 
+			"y":2678, 
+			"width":353, 
+			"height":208 , 
+			"text":"03"  
+		},
+		{ 
+			"type":"text", 
+			"font":"RozhaOne-Regular",
+			"justification":"center",
+			"uppercase":true,
+			"lineHeight":14,
+			"color":"0xB36E5D", 
+			"size":188, 
+			"name":"name_2", 
+			"x":563, 
+			"y":2727, 
+			"width":354, 
+			"height":131 , 
+			"text":"OCT"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Overlock-BoldItalic",
+			"justification":"center",
+			"lineHeight":26,
+			"color":"0x7A4F4B", 
+			"size":123, 
+			"name":"name_3", 
+			"x":589, 
+			"y":3027, 
+			"width":1326, 
+			"height":298 , 
+			"text":"Save the Date!\rLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. "  
+		},
+		{ 
+			"type":"text", 
+			"font":"RozhaOne-Regular",
+			"justification":"center",
+			"lineHeight":14,
+			"color":"0x7A4F4B", 
+			"size":273, 
+			"name":"name_4", 
+			"x":725, 
+			"y":417, 
+			"width":1073, 
+			"height":248 , 
+			"text":"Birthday"  
+		},
+		{ 
+			"type":"text", 
+			"font":"RozhaOne-Regular",
+			"justification":"center",
+			"lineHeight":14,
+			"color":"0xB36E5D", 
+			"size":273, 
+			"name":"name_5", 
+			"x":795, 
+			"y":201, 
+			"width":935, 
+			"height":198 , 
+			"text":"Emma's"  
+		}
+
+	]
+}

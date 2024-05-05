@@ -1,0 +1,91 @@
+{
+	"name":"bday2",
+	"path":" bday2/",
+	"info":{
+		"description":"Normal",
+		"file":"bday2",
+		"date":"Uncalibrated",
+		"title":"",
+		"author":"",
+		"keywords":"",
+		"generator":"Export Kit v1.2.8"
+	},
+	"layers":[
+		{ 
+			"type":"image",  
+			"src":"../skins/bday2/background.png", 
+			"name":"background", 
+			"x":0, 
+			"y":0, 
+			"width":3556, 
+			"height":2000  
+		},
+		{ 
+			"type":"image",  
+			"src":"../skins/bday2/image.png", 
+			"name":"image", 
+			"x":1748, 
+			"y":269, 
+			"width":1347, 
+			"height":1583  
+		},
+		{ 
+			"type":"text", 
+			"font":"Sunsweet",
+			"justification":"right",
+			"lineHeight":37,
+			"color":"0xFFFFFF", 
+			"size":67, 
+			"name":"name", 
+			"x":1062, 
+			"y":1243, 
+			"width":551, 
+			"height":130 , 
+			"text":"At 4 pm o`clock\rYour address here"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Sunsweet",
+			"justification":"right",
+			"lineHeight":21,
+			"color":"0xFFFFFF", 
+			"size":146, 
+			"name":"name_1", 
+			"x":845, 
+			"y":937, 
+			"width":773, 
+			"height":262 , 
+			"text":"SATURDAY,\rOCTOBER 20"  
+		},
+		{ 
+			"type":"text", 
+			"font":"ThatsFontFolksItalic",
+			"rotation":-4,
+			"justification":"left",
+			"lineHeight":25,
+			"color":"0xFFFFFF", 
+			"size":101, 
+			"name":"name_2", 
+			"x":1001, 
+			"y":711, 
+			"width":703, 
+			"height":142 , 
+			"text":"Join us to celebrate !"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Sunsweet",
+			"justification":"center",
+			"lineHeight":21,
+			"color":"0xFFFFFF", 
+			"size":280, 
+			"name":"name_3", 
+			"x":624, 
+			"y":220, 
+			"width":1001, 
+			"height":506 , 
+			"text":" Happy\rBirthday"  
+		}
+
+	]
+}

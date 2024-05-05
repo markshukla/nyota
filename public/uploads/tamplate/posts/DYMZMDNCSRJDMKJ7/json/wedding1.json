@@ -1,0 +1,119 @@
+{
+	"name":"wedding1",
+	"path":" wedding1/",
+	"info":{
+		"description":"Normal",
+		"file":"wedding1",
+		"date":"Uncalibrated",
+		"title":"",
+		"author":"",
+		"keywords":"",
+		"generator":"Export Kit v1.2.8"
+	},
+	"layers":[
+		{ 
+			"type":"image",  
+			"src":"../skins/wedding1/background.png", 
+			"name":"background", 
+			"x":-85, 
+			"y":0, 
+			"width":1085, 
+			"height":1445  
+		},
+		{ 
+			"type":"image",  
+			"src":"../skins/wedding1/image.png", 
+			"name":"image", 
+			"x":0, 
+			"y":566, 
+			"width":673, 
+			"height":848  
+		},
+		{ 
+			"type":"text", 
+			"font":"Roboto-Bold",
+			"justification":"left",
+			"lineHeight":104,
+			"color":"0xE06553", 
+			"size":17, 
+			"name":"name", 
+			"x":72, 
+			"y":110, 
+			"width":139, 
+			"height":16 , 
+			"text":"www.yoursite.com"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Roboto-Light",
+			"justification":"right",
+			"lineHeight":59,
+			"color":"0x000000", 
+			"size":27, 
+			"name":"name_1", 
+			"x":367, 
+			"y":474, 
+			"width":573, 
+			"height":139 , 
+			"text":"\"Love is like a beautiful flower which I may not touch, but whose fragrance makes the garden a place of delight just the same.\"\r Helen Keller"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Roboto-Light",
+			"justification":"right",
+			"lineHeight":59,
+			"color":"0x000000", 
+			"size":21, 
+			"name":"name_2", 
+			"x":520, 
+			"y":1287, 
+			"width":142, 
+			"height":22 , 
+			"text":"@youraccount"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Roboto-Bold",
+			"justification":"center",
+			"lineHeight":66,
+			"color":"0x494949", 
+			"size":29, 
+			"name":"name_3", 
+			"x":439, 
+			"y":177, 
+			"width":501, 
+			"height":22 , 
+			"text":"LET'S CELEBRATE OUR WEDDING"  
+		},
+		{ 
+			"type":"text", 
+			"font":"RougeScript-Regular",
+			"justification":"left",
+			"lineHeight":36,
+			"color":"0xE06553", 
+			"size":143, 
+			"name":"name_4", 
+			"x":464, 
+			"y":220, 
+			"width":453, 
+			"height":224 , 
+			"text":"Vincent\r  & Tania"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Montserrat-Bold",
+			"justification":"right",
+			"uppercase":true,
+			"lineHeight":58,
+			"color":"0x494949", 
+			"size":29, 
+			"name":"name_5", 
+			"x":627, 
+			"y":61, 
+			"width":310, 
+			"height":56 , 
+			"text":"05 june 2025\ralmond hotel, london"  
+		}
+
+	]
+}

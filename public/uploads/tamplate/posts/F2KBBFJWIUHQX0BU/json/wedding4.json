@@ -1,0 +1,160 @@
+{
+	"name":"wedding4",
+	"path":" wedding4/",
+	"info":{
+		"description":"Normal",
+		"file":"wedding4",
+		"date":"sRGB",
+		"title":"",
+		"author":"",
+		"keywords":"",
+		"generator":"Export Kit v1.2.8"
+	},
+	"layers":[
+		{ 
+			"type":"image",  
+			"src":"../skins/wedding4/background.png", 
+			"name":"background", 
+			"x":0, 
+			"y":0, 
+			"width":1753, 
+			"height":2480  
+		},
+		{ 
+			"type":"text", 
+			"font":"OpenSans-Bold",
+			"justification":"center",
+			"lineHeight":86,
+			"color":"0xFFFFFF", 
+			"size":39, 
+			"name":"name", 
+			"x":648, 
+			"y":2329, 
+			"width":457, 
+			"height":30 , 
+			"text":"RECEPTION TO FOLLOW"  
+		},
+		{ 
+			"type":"text", 
+			"font":"OpenSans",
+			"justification":"center",
+			"lineHeight":57,
+			"color":"0xFFFFFF", 
+			"size":35, 
+			"name":"name_1", 
+			"x":429, 
+			"y":1285, 
+			"width":893, 
+			"height":92 , 
+			"text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce iaculis vitae nulla quis egestas. Mauris eros diam, rutrum posuere velit sit amet Fusce piscing. consectetur adipiscing moter dose."  
+		},
+		{ 
+			"type":"text", 
+			"font":"OpenSans-Bold",
+			"justification":"center",
+			"uppercase":true,
+			"lineHeight":97,
+			"color":"0xFFFFFF", 
+			"size":68, 
+			"name":"name_2", 
+			"x":678, 
+			"y":1725, 
+			"width":391, 
+			"height":236 , 
+			"text":"6th March\r2022"  
+		},
+		{ 
+			"type":"text", 
+			"font":"OpenSans-Bold",
+			"justification":"center",
+			"uppercase":true,
+			"lineHeight":57,
+			"color":"0xFFFFFF", 
+			"size":52, 
+			"name":"name_3", 
+			"x":426, 
+			"y":1436, 
+			"width":905, 
+			"height":45 , 
+			"text":"683 Longview Avenue, NEW YORK"  
+		},
+		{ 
+			"type":"text", 
+			"font":"OpenSans-Bold",
+			"justification":"center",
+			"uppercase":true,
+			"lineHeight":57,
+			"color":"0xFFFFFF", 
+			"size":43, 
+			"name":"name_4", 
+			"x":643, 
+			"y":596, 
+			"width":468, 
+			"height":32 , 
+			"text":"WEDDING INVITATION"  
+		},
+		{ 
+			"type":"text", 
+			"font":"DancingScript-Bold",
+			"justification":"left",
+			"lineHeight":29,
+			"color":"0xFFFFFF", 
+			"size":294, 
+			"name":"name_5", 
+			"x":402, 
+			"y":720, 
+			"width":950, 
+			"height":482 , 
+			"text":"Rajoo\r  Amita" ,
+			"effects":{
+				"dropShadowMulti":{
+				},
+				"innerShadowMulti":{
+				},
+				"solidFillMulti":{
+				},
+				"gradientFill":{
+					"angle":233,
+					"type":"linear",
+					"colors":["0xfbc331","0xfde38f","0xeb930f"],
+					"alphas":[100,100,100],
+					"ratios":[13.758544921875,114.42626953125,255]
+				},
+				"frameFXMulti":{
+				}
+			} 
+		},
+		{ 
+			"type":"text", 
+			"font":"DancingScript-Bold",
+			"justification":"left",
+			"lineHeight":29,
+			"color":"0xFFFFFF", 
+			"size":192, 
+			"name":"name_6", 
+			"x":1029, 
+			"y":805, 
+			"width":132, 
+			"height":156 , 
+			"text":"&" ,
+			"effects":{
+				"dropShadowMulti":{
+				},
+				"innerShadowMulti":{
+				},
+				"solidFillMulti":{
+				},
+				"gradientFill":{
+					"angle":233,
+					"type":"linear",
+					"colors":["0xfbc331","0xfde38f","0xeb930f"],
+					"alphas":[100,100,100],
+					"ratios":[13.758544921875,114.42626953125,255]
+				},
+				"frameFXMulti":{
+				}
+			} 
+		}
+
+	]
+}

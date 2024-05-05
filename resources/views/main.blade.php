@@ -77,7 +77,7 @@
         
         
         
-        <li class="nav-item">
+        {{-- <li class="nav-item">
             <a data-bs-toggle="collapse" href="#festivalSection" class="nav-link {{ Request::path()=='festivalCategory' || Request::path()=='festival' ? 'active' : ''}}" aria-controls="festivalSection" role="button" aria-expanded="false">
                 <div class="icon icon-shape icon-sm border-radius-md text-center me-2 d-flex align-items-center justify-content-center">
                   <i class="fa fa-gifts text-primary text-sm opacity-10"></i>
@@ -104,9 +104,9 @@
                 @endif
               </ul>
             </div>
-        </li>
+        </li> --}}
         
-        <li class="nav-item">
+        {{-- <li class="nav-item">
             <a data-bs-toggle="collapse" href="#businessSection" class="nav-link {{ Request::path()=='businessCategory' ||Request::path()=='businessSubCategory' || Request::path()=='business' ? 'active' : ''}}" aria-controls="businessSection" role="button" aria-expanded="false">
                 <div class="icon icon-shape icon-sm border-radius-md text-center me-2 d-flex align-items-center justify-content-center">
                   <i class="fa fa-business-time text-primary text-sm opacity-10"></i>
@@ -139,9 +139,9 @@
                 @endif
               </ul>
             </div>
-        </li>
+        </li> --}}
         
-        <li class="nav-item">
+        {{-- <li class="nav-item">
             <a data-bs-toggle="collapse" href="#politicalSection" class="nav-link {{ Request::path()=='politicalCategory' || Request::path()=='political' ? 'active' : ''}}" aria-controls="politicalSection" role="button" aria-expanded="false">
                 <div class="icon icon-shape icon-sm border-radius-md text-center me-2 d-flex align-items-center justify-content-center">
                   <i class="fa fa-handshake-o text-primary text-sm opacity-10"></i>
@@ -168,13 +168,13 @@
                 @endif
               </ul>
             </div>
-        </li>
+        </li> --}}
         <li class="nav-item">
             <a data-bs-toggle="collapse" href="#customSection" class="nav-link {{ Request::path()=='customCategory' || Request::path()=='custom' ? 'active' : ''}}" aria-controls="customSection" role="button" aria-expanded="false">
                 <div class="icon icon-shape icon-sm border-radius-md text-center me-2 d-flex align-items-center justify-content-center">
                   <i class="fa fa-solid fa-image text-primary text-sm opacity-10"></i>
                 </div>
-                <span class="nav-link-text ms-1">Custom Data</span>
+                <span class="nav-link-text ms-1">Template</span>
             </a>
             <div class="collapse {{ Request::path()=='customCategory' || Request::path()=='custom' ? 'show' : ''}}" id="customSection">
               <ul class="nav ms-4">
@@ -182,7 +182,7 @@
                 <li class="nav-item {{ Request::path()=='custom' ? 'active' : ''}}">
                   <a class="nav-link " href="{{ url('/custom') }}">
                     <span class="sidenav-mini-icon"> L </span>
-                    <span class="sidenav-normal">Custom Posts</span>
+                    <span class="sidenav-normal">Template Posts</span>
                   </a>
                 </li>
                 @endif
@@ -190,7 +190,7 @@
                 <li class="nav-item {{ Request::path()=='customCategory' ? 'active' : ''}}">
                   <a class="nav-link" href="{{ url('/customCategory') }}">
                     <span class="sidenav-mini-icon"> D </span>
-                    <span class="sidenav-normal">Custom Category</span>
+                    <span class="sidenav-normal">Template Category</span>
                   </a>
                 </li>
                 @endif
@@ -198,7 +198,7 @@
             </div>
         </li>
         
-        @if(App\Models\Admin::isPermission('greeting')  == 'true')
+        {{-- @if(App\Models\Admin::isPermission('greeting')  == 'true')
         <li class="nav-item">
             <a data-bs-toggle="collapse" href="#greetingExamples" class="nav-link {{ Request::path()=='greeting' || Request::path()=='greetingsection' ? 'active' : ''}}" aria-controls="greetingExamples" role="button" aria-expanded="false">
                 <div class="icon icon-shape icon-sm border-radius-md text-center me-2 d-flex align-items-center justify-content-center">
@@ -224,7 +224,7 @@
               </ul>
             </div>
         </li>
-        @endif
+        @endif --}}
         
         @if(App\Models\Admin::isPermission('video')  == 'true')
         <li class="nav-item">
@@ -315,7 +315,7 @@
             </div>
         </li>
         
-        @if(App\Models\Admin::isPermission('frame')  == 'true')
+        {{-- @if(App\Models\Admin::isPermission('frame')  == 'true')
         <li class="nav-item">
             <a data-bs-toggle="collapse" href="#frameExamples" class="nav-link {{ Request::path()=='frame' || Request::path()=='framecategory' || str_contains(Request::path(),'frameCategory') ? 'active' : ''}}" aria-controls="frameExamples" role="button" aria-expanded="false">
                 <div class="icon icon-shape icon-sm border-radius-md text-center me-2 d-flex align-items-center justify-content-center">
@@ -366,10 +366,10 @@
               </ul>
             </div>
         </li>
-        @endif
+        @endif --}}
         
         
-        <li class="nav-item">
+        {{-- <li class="nav-item">
             <a data-bs-toggle="collapse" href="#businesscardtamplate" class="nav-link {{ Request::path()=='businesscardtamplate' || Request::path()=='businesscarddigital' ? 'active' : ''}}" aria-controls="businesscardtamplate" role="button" aria-expanded="false">
                 <div class="icon icon-shape icon-sm border-radius-md text-center me-2 d-flex align-items-center justify-content-center">
                   <i class="fa fa-address-card text-primary text-sm opacity-10"></i>
@@ -393,9 +393,9 @@
                 
               </ul>
             </div>
-        </li>
+        </li> --}}
         
-        <li class="nav-item">
+        {{-- <li class="nav-item">
             <a data-bs-toggle="collapse" href="#invitationcardtamplate" class="nav-link {{ Request::path()=='invitationcard' || Request::path()=='invitationcategory' ? 'active' : ''}}" aria-controls="invitationcardtamplate" role="button" aria-expanded="false">
                 <div class="icon icon-shape icon-sm border-radius-md text-center me-2 d-flex align-items-center justify-content-center">
                   <i class="fa fa-glass-cheers text-primary text-sm opacity-10"></i>
@@ -419,10 +419,10 @@
                 
               </ul>
             </div>
-        </li>
+        </li> --}}
         
         
-        <li class="nav-item">
+        {{-- <li class="nav-item">
             <a data-bs-toggle="collapse" href="#ourservices" class="nav-link {{ Request::path()=='ourservices' || Request::path()=='inquiries' ? 'active' : ''}}" aria-controls="businesscardtamplate" role="button" aria-expanded="false">
                 <div class="icon icon-shape icon-sm border-radius-md text-center me-2 d-flex align-items-center justify-content-center">
                   <i class="fa fa-store text-primary text-sm opacity-10"></i>
@@ -446,7 +446,7 @@
                 
               </ul>
             </div>
-        </li>
+        </li> --}}
         
         
         @if(App\Models\Admin::isPermission('slider')  == 'true')
@@ -478,14 +478,14 @@
         </li>
         @endif
         
-        <li class="nav-item">
+        {{-- <li class="nav-item">
           <a class="nav-link {{ Request::path()=='withdraws' ? 'active' : ''}}" href=" {{ url('withdraws') }}">
             <div class="icon icon-shape icon-sm border-radius-md text-center me-2 d-flex align-items-center justify-content-center">
               <i class="fa fa-wallet text-primary text-sm opacity-10"></i>
             </div>
             <span class="nav-link-text ms-1">Withdraws</span>
           </a>
-        </li>
+        </li> --}}
         
         @if(App\Models\Admin::isPermission('contacts')  == 'true')
         <li class="nav-item">

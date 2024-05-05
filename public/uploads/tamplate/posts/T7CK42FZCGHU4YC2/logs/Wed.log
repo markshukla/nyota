@@ -1,0 +1,36 @@
+Output Logs [8/8/2023, 12:55:14 AM]
+[TIME] 00:00:12		[PSD] Wed
+[LAYERS] 10  		[LPI] 0.77
+[FIXES] 0   		[WARNINGS] 0
+[+]----------------- START -------------------[+]
+1.    Exporting...
+2.    [PSD] [Wed.psd]
+3.    [SIZE] [width:1275,height:1875]
+4.    [LAYER] [IMAGE] [background]
+5.    [OK] Layer Processed.
+6.    Saving Layer as Image...
+7.    [SAVED]
+8.    [LAYER] [TEXT] [name]
+9.    [OK] Layer Processed.
+10.   [LAYER] [TEXT] [name]
+11.   [OK] Layer Processed.
+12.   [LAYER] [TEXT] [name]
+13.   [OK] Layer Processed.
+14.   [LAYER] [TEXT] [name]
+15.   [OK] Layer Processed.
+16.   [LAYER] [TEXT] [name]
+17.   [OK] Layer Processed.
+18.   [LAYER] [TEXT] [name]
+19.   [OK] Layer Processed.
+20.   [LAYER] [TEXT] [name]
+21.   [OK] Layer Processed.
+22.   [LAYER] [TEXT] [name]
+23.   [OK] Layer Processed.
+24.   [LAYER] [TEXT] [name]
+25.   [OK] Layer Processed.
+26.   [COMPLETE] [Wed]
+27.   [API] Encoding Data 
+28.   Building Project files...
+29.   [SAVING] [Wed.json]
+30.   [DONE] All Done...
+[+]------------------ DONE -------------------[+]

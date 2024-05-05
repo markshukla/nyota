@@ -1,0 +1,123 @@
+{
+	"name":"wedding3",
+	"path":" wedding3/",
+	"info":{
+		"description":"Normal",
+		"file":"wedding3",
+		"date":"sRGB",
+		"title":"",
+		"author":"",
+		"keywords":"",
+		"generator":"Export Kit v1.2.8"
+	},
+	"layers":[
+		{ 
+			"type":"image",  
+			"src":"../skins/wedding3/background.png", 
+			"name":"background", 
+			"x":0, 
+			"y":0, 
+			"width":2970, 
+			"height":4200  
+		},
+		{ 
+			"type":"text", 
+			"font":"Flanella",
+			"justification":"center",
+			"lineHeight":280,
+			"color":"0x5F5F5F", 
+			"size":626, 
+			"name":"name", 
+			"x":716, 
+			"y":2107, 
+			"width":1450, 
+			"height":560 , 
+			"text":"Gilbert"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Flanella",
+			"justification":"center",
+			"lineHeight":280,
+			"color":"0x5F5F5F", 
+			"size":611, 
+			"name":"name_1", 
+			"x":942, 
+			"y":1394, 
+			"width":1067, 
+			"height":527 , 
+			"text":"Anne"  
+		},
+		{ 
+			"type":"text", 
+			"font":"OpenSansLight-Italic",
+			"justification":"center",
+			"lineHeight":280,
+			"color":"0x5F5F5F", 
+			"size":82, 
+			"name":"name_2", 
+			"x":1134, 
+			"y":3299, 
+			"width":681, 
+			"height":77 , 
+			"text":"JULY 11th, 2020"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Flanella",
+			"justification":"center",
+			"lineHeight":107,
+			"color":"0x5F5F5F", 
+			"size":250, 
+			"name":"name_3", 
+			"x":1165, 
+			"y":441, 
+			"width":618, 
+			"height":219 , 
+			"text":"Join us"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Flanella",
+			"justification":"center",
+			"lineHeight":107,
+			"color":"0x5F5F5F", 
+			"size":250, 
+			"name":"name_4", 
+			"x":883, 
+			"y":3454, 
+			"width":1197, 
+			"height":215 , 
+			"text":"Save the Date"  
+		},
+		{ 
+			"type":"text", 
+			"font":"OpenSans",
+			"justification":"center",
+			"lineHeight":119,
+			"color":"0x5F5F5F", 
+			"size":76, 
+			"name":"name_5", 
+			"x":870, 
+			"y":2923, 
+			"width":1209, 
+			"height":267 , 
+			"text":"ONE O'CLOCK IN THE AFTERNOON\rTHE WHITE CHURCH\radd your city here, 01234"  
+		},
+		{ 
+			"type":"text", 
+			"font":"OpenSans",
+			"justification":"center",
+			"lineHeight":119,
+			"color":"0x5F5F5F", 
+			"size":76, 
+			"name":"name_6", 
+			"x":958, 
+			"y":786, 
+			"width":1032, 
+			"height":267 , 
+			"text":"TOGETHER WITH OUR LOVED\rFRIENDS AND FAMILY\rcelebrating our wedding"  
+		}
+
+	]
+}
