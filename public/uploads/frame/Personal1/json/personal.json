@@ -1,0 +1,78 @@
+{
+	"name":"personal",
+	"path":" personal/",
+	"info":{
+		"description":"Normal",
+		"file":"personal",
+		"date":"sRGB",
+		"title":"",
+		"author":"",
+		"keywords":"",
+		"generator":"Export Kit v1.2.8"
+	},
+	"layers":[
+		{ 
+			"type":"image",  
+			"src":"../skins/personal/background.png", 
+			"name":"background", 
+			"x":0, 
+			"y":0, 
+			"width":1280, 
+			"height":1280  
+		},
+		{ 
+			"type":"image",  
+			"src":"../skins/personal/logo.png", 
+			"name":"logo", 
+			"x":986, 
+			"y":989, 
+			"width":272, 
+			"height":291  
+		},
+		{ 
+			"type":"text", 
+			"font":"Calibri",
+			"weight":"bold",
+			"justification":"left",
+			"uppercase":true,
+			"color":"0x000000", 
+			"size":65, 
+			"name":"name", 
+			"x":77, 
+			"y":1148, 
+			"width":449, 
+			"height":44 , 
+			"text":"Rahul SHARMA"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Calibri",
+			"weight":"bold",
+			"justification":"center",
+			"uppercase":true,
+			"color":"0xFFFFFF", 
+			"size":39, 
+			"name":"number", 
+			"x":87, 
+			"y":1232, 
+			"width":271, 
+			"height":26 , 
+			"text":"+916263020998"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Calibri",
+			"weight":"bold",
+			"justification":"center",
+			"color":"0xFFFFFF", 
+			"size":39, 
+			"name":"email", 
+			"x":464, 
+			"y":1229, 
+			"width":422, 
+			"height":34 , 
+			"text":"visticsolution@gmail.com"  
+		}
+
+	]
+}

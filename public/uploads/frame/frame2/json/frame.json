@@ -1,0 +1,109 @@
+{
+	"name":"frame",
+	"path":" frame/",
+	"info":{
+		"description":"Normal",
+		"file":"frame",
+		"date":"sRGB",
+		"title":"",
+		"author":"",
+		"keywords":"",
+		"generator":"Export Kit v1.2.8"
+	},
+	"layers":[
+		{ 
+			"type":"image",  
+			"src":"../skins/frame/background.png", 
+			"name":"background", 
+			"x":0, 
+			"y":0, 
+			"width":1200, 
+			"height":1200  
+		},
+		{ 
+			"type":"image",  
+			"src":"../skins/frame/logo.png", 
+			"name":"logo", 
+			"x":60, 
+			"y":53, 
+			"width":205, 
+			"height":203  
+		},
+		{ 
+			"type":"text", 
+			"font":"Calibri",
+			"weight":"bold",
+			"justification":"left",
+			"lineHeight":85,
+			"color":"0x193308", 
+			"size":31, 
+			"name":"number", 
+			"x":938, 
+			"y":1099, 
+			"width":213, 
+			"height":21 , 
+			"text":"+916263020998"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Calibri",
+			"weight":"bold",
+			"justification":"left",
+			"lineHeight":85,
+			"color":"0xFFFFFF", 
+			"size":31, 
+			"name":"email", 
+			"x":118, 
+			"y":1096, 
+			"width":339, 
+			"height":28 , 
+			"text":"visticsolution@gmail.com"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Calibri",
+			"weight":"bold",
+			"justification":"right",
+			"lineHeight":85,
+			"color":"0x193308", 
+			"size":31, 
+			"name":"website", 
+			"x":922, 
+			"y":100, 
+			"width":230, 
+			"height":28 , 
+			"text":"nyota.com"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Calibri",
+			"weight":"bold",
+			"justification":"center",
+			"lineHeight":85,
+			"color":"0xFFFFFF", 
+			"size":41, 
+			"name":"address", 
+			"x":120, 
+			"y":1151, 
+			"width":858, 
+			"height":36 , 
+			"text":"Bangalore,Akshya Nagar 1st Block 1st Cross, India"  
+		},
+		{ 
+			"type":"text", 
+			"font":"CopperplateGothic-Bold",
+			"weight":"bold",
+			"justification":"left",
+			"lineHeight":85,
+			"color":"0xFFC400", 
+			"size":48, 
+			"name":"company", 
+			"x":764, 
+			"y":53, 
+			"width":389, 
+			"height":35 , 
+			"text":"Poster Banao"  
+		}
+
+	]
+}

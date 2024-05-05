@@ -1,0 +1,104 @@
+{
+	"name":"Business Frame 1",
+	"path":" Business Frame 1/",
+	"info":{
+		"description":"Normal",
+		"file":"Business Frame 1",
+		"date":"sRGB",
+		"title":"",
+		"author":"",
+		"keywords":"",
+		"generator":"Export Kit v1.2.8"
+	},
+	"layers":[
+		{ 
+			"type":"image",  
+			"src":"../skins/Business Frame 1/background.png", 
+			"name":"background", 
+			"x":0, 
+			"y":0, 
+			"width":1080, 
+			"height":1080  
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"center",
+			"lineHeight":69,
+			"color":"0x003789", 
+			"size":49, 
+			"name":"company", 
+			"x":687, 
+			"y":21, 
+			"width":369, 
+			"height":35 , 
+			"text":"Business Name"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"center",
+			"lineHeight":69,
+			"color":"0xFFFFFF", 
+			"size":38, 
+			"name":"number", 
+			"x":140, 
+			"y":982, 
+			"width":216, 
+			"height":27 , 
+			"text":"6263020998"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"center",
+			"lineHeight":69,
+			"color":"0xFFFFFF", 
+			"size":23, 
+			"name":"address", 
+			"x":86, 
+			"y":1043, 
+			"width":384, 
+			"height":22 , 
+			"text":"Akshya Nagar 1st Block 1st Cross"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"center",
+			"lineHeight":69,
+			"color":"0xFFFFFF", 
+			"size":23, 
+			"name":"email", 
+			"x":571, 
+			"y":1039, 
+			"width":305, 
+			"height":22 , 
+			"text":"gmail.devloper@gmail.com"  
+		},
+		{ 
+			"type":"text", 
+			"font":"BebasNeue-Regular",
+			"justification":"center",
+			"lineHeight":69,
+			"color":"0xFFFFFF", 
+			"size":51, 
+			"name":"name", 
+			"x":564, 
+			"y":973, 
+			"width":213, 
+			"height":38 , 
+			"text":"Owner Name"  
+		},
+		{ 
+			"type":"image",  
+			"src":"../skins/Business Frame 1/logo.png", 
+			"name":"logo", 
+			"x":31, 
+			"y":34, 
+			"width":110, 
+			"height":110  
+		}
+
+	]
+}

@@ -1,0 +1,95 @@
+{
+	"name":"birthday",
+	"path":" birthday/",
+	"info":{
+		"description":"Normal",
+		"file":"birthday",
+		"date":"sRGB",
+		"title":"",
+		"author":"",
+		"keywords":"",
+		"generator":"Export Kit v1.2.8"
+	},
+	"layers":[
+		{ 
+			"type":"image",  
+			"src":"../skins/birthday/background.png", 
+			"name":"background", 
+			"x":-3, 
+			"y":-4, 
+			"width":1206, 
+			"height":1608  
+		},
+		{ 
+			"type":"text", 
+			"font":"ArialMT",
+			"justification":"center",
+			"lineHeight":124,
+			"color":"0x202E2B", 
+			"size":41, 
+			"name":"quote", 
+			"x":263, 
+			"y":83, 
+			"width":675, 
+			"height":30 , 
+			"text":"JOIN US TO CELEBRATE"  
+		},
+		{ 
+			"type":"text", 
+			"font":"ArialMT",
+			"justification":"center",
+			"lineHeight":124,
+			"color":"0x202E2B", 
+			"size":41, 
+			"name":"day", 
+			"x":342, 
+			"y":910, 
+			"width":536, 
+			"height":30 , 
+			"text":"SATURDAY 4th MAY"  
+		},
+		{ 
+			"type":"text", 
+			"font":"ArialMT",
+			"justification":"center",
+			"lineHeight":124,
+			"color":"0xB7307C", 
+			"size":41, 
+			"name":"time", 
+			"x":489, 
+			"y":1078, 
+			"width":211, 
+			"height":30 , 
+			"text":"At 9 :00 PM"  
+		},
+		{ 
+			"type":"text", 
+			"font":"ArialMT",
+			"justification":"center",
+			"lineHeight":124,
+			"color":"0xAC3278", 
+			"size":41, 
+			"name":"address", 
+			"x":223, 
+			"y":1145, 
+			"width":773, 
+			"height":38 , 
+			"text":"Number night club , Mumbai 400625, India"  
+		},
+		{ 
+			"type":"text", 
+			"font":"ArialRoundedMTBold",
+			"justification":"center",
+			"lineHeight":124,
+			"color":"0x202E2B", 
+			"size":66, 
+			"name":"name", 
+			"x":443, 
+			"y":153, 
+			"width":275, 
+			"height":49 , 
+			"text":"OLIVIA'S"  
+		}
+
+	]
+}

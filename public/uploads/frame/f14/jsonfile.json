@@ -1,0 +1,76 @@
+{
+	"name":"fa1",
+	"path":" fa1/",
+	"info":{
+		"description":"Normal",
+		"file":"fa1",
+		"date":"sRGB",
+		"title":"",
+		"author":"",
+		"keywords":"",
+		"generator":"Export Kit v1.2.8"
+	},
+	"layers":[
+		{ 
+			"type":"image",  
+			"src":"../skins/fa1/background.png", 
+			"name":"background", 
+			"x":0, 
+			"y":-5, 
+			"width":1085, 
+			"height":1090  
+		},
+		{ 
+			"type":"image",  
+			"src":"../skins/fa1/logo.png", 
+			"name":"logo", 
+			"x":38, 
+			"y":34, 
+			"width":118, 
+			"height":124  
+		},
+		{ 
+			"type":"text", 
+			"font":"ArialMT",
+			"justification":"center",
+			"lineHeight":124,
+			"color":"0xFFFFFF", 
+			"size":33, 
+			"name":"company", 
+			"x":75, 
+			"y":1030, 
+			"width":236, 
+			"height":31 , 
+			"text":"Company Name"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Montserrat-Medium",
+			"justification":"center",
+			"lineHeight":124,
+			"color":"0xFFFFFF", 
+			"size":30, 
+			"name":"website", 
+			"x":750, 
+			"y":1031, 
+			"width":261, 
+			"height":28 , 
+			"text":"www.google.com"  
+		},
+		{ 
+			"type":"text", 
+			"font":"ArialMT",
+			"justification":"center",
+			"lineHeight":124,
+			"color":"0x000000", 
+			"size":38, 
+			"name":"mobile", 
+			"x":440, 
+			"y":1026, 
+			"width":208, 
+			"height":27 , 
+			"text":"8757893246"  
+		}
+
+	]
+}

@@ -1,0 +1,109 @@
+{
+	"name":"frame",
+	"path":" frame/",
+	"info":{
+		"description":"Normal",
+		"file":"frame",
+		"date":"sRGB",
+		"title":"",
+		"author":"",
+		"keywords":"",
+		"generator":"Export Kit v1.2.8"
+	},
+	"layers":[
+		{ 
+			"type":"image",  
+			"src":"../skins/frame/background.png", 
+			"name":"background", 
+			"x":0, 
+			"y":0, 
+			"width":1200, 
+			"height":1200  
+		},
+		{ 
+			"type":"image",  
+			"src":"../skins/frame/logo.png", 
+			"name":"logo", 
+			"x":59, 
+			"y":49, 
+			"width":187, 
+			"height":187  
+		},
+		{ 
+			"type":"text", 
+			"font":"Calibri",
+			"weight":"bold",
+			"justification":"left",
+			"lineHeight":85,
+			"color":"0xFFFFFF", 
+			"size":31, 
+			"name":"email", 
+			"x":518, 
+			"y":1096, 
+			"width":339, 
+			"height":28 , 
+			"text":"visticsolution@gmail.com"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Calibri",
+			"weight":"bold",
+			"justification":"left",
+			"lineHeight":85,
+			"color":"0xFFFFFF", 
+			"size":31, 
+			"name":"number", 
+			"x":927, 
+			"y":1098, 
+			"width":213, 
+			"height":21 , 
+			"text":"+916263020998"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Calibri",
+			"weight":"bold",
+			"justification":"right",
+			"lineHeight":85,
+			"color":"0x193308", 
+			"size":31, 
+			"name":"website", 
+			"x":38, 
+			"y":252, 
+			"width":230, 
+			"height":28 , 
+			"text":"nyota.com"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Calibri",
+			"weight":"bold",
+			"justification":"left",
+			"lineHeight":85,
+			"color":"0x000000", 
+			"size":40, 
+			"name":"address", 
+			"x":104, 
+			"y":1157, 
+			"width":1080, 
+			"height":35 , 
+			"text":"28, Manish Ngr Shop Centre, 4 Bunglow, Nr Indian Oil, Andheri "  
+		},
+		{ 
+			"type":"text", 
+			"font":"CopperplateGothic-Bold",
+			"weight":"bold",
+			"justification":"center",
+			"lineHeight":85,
+			"color":"0xFFFFFF", 
+			"size":35, 
+			"name":"company", 
+			"x":70, 
+			"y":1097, 
+			"width":287, 
+			"height":25 , 
+			"text":"Poster Banao"  
+		}
+
+	]
+}

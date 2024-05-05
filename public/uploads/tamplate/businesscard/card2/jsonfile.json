@@ -1,0 +1,145 @@
+{
+	"name":"card",
+	"path":" card/",
+	"info":{
+		"description":"Normal",
+		"file":"card",
+		"date":"sRGB",
+		"title":"",
+		"author":"",
+		"keywords":"",
+		"generator":"Export Kit v1.2.8"
+	},
+	"layers":[
+		{ 
+			"type":"image",  
+			"src":"../skins/card/background.png", 
+			"name":"background", 
+			"x":0, 
+			"y":0, 
+			"width":1290, 
+			"height":813  
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"center",
+			"lineHeight":124,
+			"color":"0x000000", 
+			"size":36, 
+			"name":"company", 
+			"x":789, 
+			"y":562, 
+			"width":272, 
+			"height":28 , 
+			"text":"Vistic Solutions"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"center",
+			"lineHeight":124,
+			"color":"0xFFFFFF", 
+			"size":36, 
+			"name":"name", 
+			"x":132, 
+			"y":121, 
+			"width":272, 
+			"height":28 , 
+			"text":"Vistic Solutions"  
+		},
+		{ 
+			"type":"text", 
+			"font":"ArialNarrow",
+			"justification":"center",
+			"lineHeight":124,
+			"color":"0xFFFFFF", 
+			"size":28, 
+			"name":"designation", 
+			"x":133, 
+			"y":159, 
+			"width":201, 
+			"height":22 , 
+			"text":"Vistic Solutions seo"  
+		},
+		{ 
+			"type":"image",  
+			"src":"../skins/card/logo.png", 
+			"name":"logo", 
+			"x":815, 
+			"y":297, 
+			"width":219, 
+			"height":213 ,
+			"effects":{
+				"dropShadowMulti":{
+				},
+				"innerShadowMulti":{
+				},
+				"solidFill":{
+					"color":"0xff5408"
+				},
+				"gradientFillMulti":{
+				},
+				"frameFXMulti":{
+				}
+			} 
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"center",
+			"lineHeight":124,
+			"color":"0xFFFFFF", 
+			"size":32, 
+			"name":"number", 
+			"x":206, 
+			"y":329, 
+			"width":232, 
+			"height":23 , 
+			"text":"+916263020998"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"center",
+			"lineHeight":124,
+			"color":"0xFFFFFF", 
+			"size":32, 
+			"name":"email", 
+			"x":207, 
+			"y":445, 
+			"width":323, 
+			"height":30 , 
+			"text":"devloper@gmail.com"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"center",
+			"lineHeight":124,
+			"color":"0xFFFFFF", 
+			"size":32, 
+			"name":"website", 
+			"x":209, 
+			"y":550, 
+			"width":299, 
+			"height":23 , 
+			"text":"visticsolutuins.com"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"center",
+			"lineHeight":124,
+			"color":"0xFFFFFF", 
+			"size":32, 
+			"name":"address", 
+			"x":211, 
+			"y":665, 
+			"width":276, 
+			"height":29 , 
+			"text":"Mandsaur,Madhya "  
+		}
+
+	]
+}

@@ -1,0 +1,132 @@
+{
+	"name":"Business Frame 3",
+	"path":" Business Frame 3/",
+	"info":{
+		"description":"Normal",
+		"file":"Business Frame 3",
+		"date":"sRGB",
+		"title":"",
+		"author":"",
+		"keywords":"",
+		"generator":"Export Kit v1.2.8"
+	},
+	"layers":[
+		{ 
+			"type":"image",  
+			"src":"../skins/Business Frame 3/background.png", 
+			"name":"background", 
+			"x":0, 
+			"y":0, 
+			"width":1080, 
+			"height":1080  
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"center",
+			"lineHeight":69,
+			"color":"0xFFFFFF", 
+			"size":49, 
+			"name":"company", 
+			"x":82, 
+			"y":953, 
+			"width":369, 
+			"height":35 , 
+			"text":"Business Name"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"center",
+			"lineHeight":69,
+			"color":"0xFFFFFF", 
+			"size":25, 
+			"name":"number", 
+			"x":654, 
+			"y":969, 
+			"width":142, 
+			"height":18 , 
+			"text":"6263020998"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"center",
+			"lineHeight":69,
+			"color":"0xFFFFFF", 
+			"size":25, 
+			"name":"whatsapp", 
+			"x":877, 
+			"y":968, 
+			"width":142, 
+			"height":18 , 
+			"text":"6263020998"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"center",
+			"lineHeight":69,
+			"color":"0x000000", 
+			"size":27, 
+			"name":"address", 
+			"x":68, 
+			"y":1054, 
+			"width":647, 
+			"height":25 , 
+			"text":"Address is - > Akshya Nagar 1st Block 1st Cross "  
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"center",
+			"lineHeight":69,
+			"color":"0xFFFFFF", 
+			"size":30, 
+			"name":"email", 
+			"x":22, 
+			"y":1011, 
+			"width":407, 
+			"height":29 , 
+			"text":"gmail.devloper@gmail.com"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"center",
+			"lineHeight":69,
+			"color":"0xFFFFFF", 
+			"size":23, 
+			"name":"website", 
+			"x":686, 
+			"y":1016, 
+			"width":267, 
+			"height":22 , 
+			"text":"www.simplegoogle.com"  
+		},
+		{ 
+			"type":"text", 
+			"font":"ArialMT",
+			"justification":"center",
+			"lineHeight":69,
+			"color":"0x000000", 
+			"size":51, 
+			"name":"name", 
+			"x":731, 
+			"y":55, 
+			"width":307, 
+			"height":39 , 
+			"text":"Owner Name"  
+		},
+		{ 
+			"type":"image",  
+			"src":"../skins/Business Frame 3/logo.png", 
+			"name":"logo", 
+			"x":31, 
+			"y":34, 
+			"width":110, 
+			"height":110  
+		}
+
+	]
+}

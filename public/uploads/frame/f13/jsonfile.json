@@ -1,0 +1,98 @@
+{
+	"name":"frame_013",
+	"path":" frame_013/",
+	"info":{
+		"description":"Normal",
+		"file":"frame_013",
+		"date":"sRGB",
+		"title":"",
+		"author":"",
+		"keywords":"",
+		"generator":"Export Kit v1.2.8"
+	},
+	"layers":[
+		{ 
+			"type":"image",  
+			"src":"../skins/frame_013/background.png", 
+			"name":"background", 
+			"x":0, 
+			"y":0, 
+			"width":1080, 
+			"height":1080  
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"center",
+			"lineHeight":124,
+			"color":"0x004138", 
+			"size":32, 
+			"name":"number", 
+			"x":73, 
+			"y":979, 
+			"width":221, 
+			"height":23 , 
+			"text":"91 8757893246"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"center",
+			"lineHeight":124,
+			"color":"0x000000", 
+			"size":34, 
+			"name":"company", 
+			"x":791, 
+			"y":977, 
+			"width":254, 
+			"height":32 , 
+			"text":"  Company Name "  
+		},
+		{ 
+			"type":"text", 
+			"font":"Montserrat-SemiBold",
+			"justification":"center",
+			"lineHeight":54,
+			"color":"0xFFFFFF", 
+			"size":27, 
+			"name":"address", 
+			"x":23, 
+			"y":1036, 
+			"width":1032, 
+			"height":27 , 
+			"text":"Loca Society , Dilbar Chowk CBSCTY Road , Sama Nagar , Mumbai - 2545 India"  
+		},
+		{ 
+			"type":"image",  
+			"src":"../skins/frame_013/logo.png", 
+			"name":"logo", 
+			"x":30, 
+			"y":25, 
+			"width":145, 
+			"height":145  
+		},
+		{ 
+			"type":"image",  
+			"src":"../skins/frame_013/phone_call.png", 
+			"name":"phone_call", 
+			"x":23, 
+			"y":973, 
+			"width":34, 
+			"height":34 ,
+			"effects":{
+				"dropShadowMulti":{
+				},
+				"innerShadowMulti":{
+				},
+				"solidFill":{
+					"color":"0x014a3e"
+				},
+				"gradientFillMulti":{
+				},
+				"frameFXMulti":{
+				}
+			} 
+		}
+
+	]
+}

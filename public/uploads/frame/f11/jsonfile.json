@@ -1,0 +1,108 @@
+{
+	"name":"frame00011",
+	"path":" frame00011/",
+	"info":{
+		"description":"Normal",
+		"file":"frame00011",
+		"date":"sRGB",
+		"title":"",
+		"author":"",
+		"keywords":"",
+		"generator":"Export Kit v1.2.8"
+	},
+	"layers":[
+		{ 
+			"type":"image",  
+			"src":"../skins/frame00011/background.png", 
+			"name":"background", 
+			"x":0, 
+			"y":0, 
+			"width":1080, 
+			"height":1080  
+		},
+		{ 
+			"type":"image",  
+			"src":"../skins/frame00011/emailbackground.png", 
+			"name":"emailbackground", 
+			"x":491, 
+			"y":9, 
+			"width":682, 
+			"height":60  
+		},
+		{ 
+			"type":"text", 
+			"font":"ArialMT",
+			"justification":"center",
+			"lineHeight":124,
+			"color":"0xFFFFFF", 
+			"size":38, 
+			"name":"company", 
+			"x":141, 
+			"y":977, 
+			"width":271, 
+			"height":35 , 
+			"text":"Company Name"  
+		},
+		{ 
+			"type":"image",  
+			"src":"../skins/frame00011/logo.png", 
+			"name":"logo", 
+			"x":49, 
+			"y":35, 
+			"width":145, 
+			"height":145  
+		},
+		{ 
+			"type":"text", 
+			"font":"Montserrat-Medium",
+			"justification":"center",
+			"lineHeight":124,
+			"color":"0xFFFFFF", 
+			"size":30, 
+			"name":"email", 
+			"x":550, 
+			"y":25, 
+			"width":465, 
+			"height":29 , 
+			"text":"demogdemogmail@gmail.com"  
+		},
+		{ 
+			"type":"text", 
+			"font":"ArialMT",
+			"justification":"center",
+			"lineHeight":124,
+			"color":"0xFFFFFF", 
+			"size":35, 
+			"name":"number", 
+			"x":725, 
+			"y":980, 
+			"width":193, 
+			"height":25 , 
+			"text":"8757893246"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Montserrat-Medium",
+			"justification":"center",
+			"lineHeight":124,
+			"color":"0x000000", 
+			"size":26, 
+			"name":"address", 
+			"x":26, 
+			"y":1043, 
+			"width":1024, 
+			"height":25 , 
+			"text":"Local Society , Dilbar Chowk CBSCTY Road , Sama Nagar , Mumbai - 2545 India"  
+		},
+		{ 
+			"type":"image",  
+			"src":"../skins/frame00011/whatsapp.png", 
+			"name":"whatsapp", 
+			"x":659, 
+			"y":975, 
+			"width":37, 
+			"height":37  
+		}
+
+	]
+}

@@ -1,0 +1,109 @@
+{
+	"name":"frame",
+	"path":" frame/",
+	"info":{
+		"description":"Normal",
+		"file":"frame",
+		"date":"sRGB",
+		"title":"",
+		"author":"",
+		"keywords":"",
+		"generator":"Export Kit v1.2.8"
+	},
+	"layers":[
+		{ 
+			"type":"image",  
+			"src":"../skins/frame/background.png", 
+			"name":"background", 
+			"x":0, 
+			"y":0, 
+			"width":1200, 
+			"height":1200  
+		},
+		{ 
+			"type":"image",  
+			"src":"../skins/frame/logo.png", 
+			"name":"logo", 
+			"x":35, 
+			"y":23, 
+			"width":187, 
+			"height":187  
+		},
+		{ 
+			"type":"text", 
+			"font":"Calibri",
+			"weight":"bold",
+			"justification":"left",
+			"lineHeight":85,
+			"color":"0x000000", 
+			"size":28, 
+			"name":"email", 
+			"x":470, 
+			"y":1114, 
+			"width":312, 
+			"height":25 , 
+			"text":"visticsolution@gmail.com"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Calibri",
+			"weight":"bold",
+			"justification":"left",
+			"lineHeight":85,
+			"color":"0x000000", 
+			"size":28, 
+			"name":"number", 
+			"x":48, 
+			"y":1117, 
+			"width":195, 
+			"height":19 , 
+			"text":"+916263020998"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Calibri",
+			"weight":"bold",
+			"justification":"left",
+			"lineHeight":85,
+			"color":"0x000000", 
+			"size":28, 
+			"name":"website", 
+			"x":914, 
+			"y":1114, 
+			"width":288, 
+			"height":20 , 
+			"text":"www.visticsolution.com"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Calibri",
+			"weight":"bold",
+			"justification":"center",
+			"lineHeight":85,
+			"color":"0xFFFFFF", 
+			"size":33, 
+			"name":"address", 
+			"x":145, 
+			"y":1162, 
+			"width":899, 
+			"height":29 , 
+			"text":"28, Manish Ngr Shop Centre, 4 Bunglow, Nr Indian Oil, Andheri "  
+		},
+		{ 
+			"type":"text", 
+			"font":"Ranille",
+			"weight":"bold",
+			"justification":"center",
+			"lineHeight":85,
+			"color":"0x111C7E", 
+			"size":45, 
+			"name":"company", 
+			"x":868, 
+			"y":42, 
+			"width":299, 
+			"height":34 , 
+			"text":"Poster Banao"  
+		}
+
+	]
+}

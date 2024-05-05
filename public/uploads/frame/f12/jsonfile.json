@@ -1,0 +1,99 @@
+{
+	"name":"frame12",
+	"path":" frame12/",
+	"info":{
+		"description":"Normal",
+		"file":"frame12",
+		"date":"sRGB",
+		"title":"",
+		"author":"",
+		"keywords":"",
+		"generator":"Export Kit v1.2.8"
+	},
+	"layers":[
+		{ 
+			"type":"image",  
+			"src":"../skins/frame12/background.png", 
+			"name":"background", 
+			"x":0, 
+			"y":0, 
+			"width":1080, 
+			"height":1082  
+		},
+		{ 
+			"type":"text", 
+			"font":"Montserrat-Light",
+			"justification":"center",
+			"lineHeight":54,
+			"color":"0xFFFFFF", 
+			"size":27, 
+			"name":"address", 
+			"x":26, 
+			"y":1034, 
+			"width":1012, 
+			"height":25 , 
+			"text":"Loca Society , Dilbar Chowk CBSCTY Road , Sama Nagar , Mumbai - 2545 India"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"center",
+			"lineHeight":124,
+			"color":"0x000000", 
+			"size":34, 
+			"name":"company", 
+			"x":767, 
+			"y":982, 
+			"width":254, 
+			"height":32 , 
+			"text":"    Company Name   "  
+		},
+		{ 
+			"type":"image",  
+			"src":"../skins/frame12/phone_call.png", 
+			"name":"phone_call", 
+			"x":10, 
+			"y":981, 
+			"width":34, 
+			"height":34  
+		},
+		{ 
+			"type":"image",  
+			"src":"../skins/frame12/emailbackground.png", 
+			"name":"emailbackground", 
+			"x":-8, 
+			"y":9, 
+			"width":540, 
+			"height":47  
+		},
+		{ 
+			"type":"text", 
+			"font":"Montserrat-Medium",
+			"justification":"center",
+			"lineHeight":124,
+			"color":"0xFFFFFF", 
+			"size":30, 
+			"name":"email", 
+			"x":38, 
+			"y":18, 
+			"width":465, 
+			"height":29 , 
+			"text":"demogdemogmail@gmail.com"  
+		},
+		{ 
+			"type":"text", 
+			"font":"ArialMT",
+			"justification":"center",
+			"lineHeight":124,
+			"color":"0xFFFFFF", 
+			"size":32, 
+			"name":"number", 
+			"x":51, 
+			"y":987, 
+			"width":219, 
+			"height":23 , 
+			"text":"91 8757893246"  
+		}
+
+	]
+}

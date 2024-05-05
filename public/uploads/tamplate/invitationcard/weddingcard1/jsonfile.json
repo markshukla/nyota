@@ -1,0 +1,142 @@
+{
+	"name":"psdfile",
+	"path":" psdfile/",
+	"info":{
+		"description":"Normal",
+		"file":"psdfile",
+		"date":"sRGB",
+		"title":"",
+		"author":"",
+		"keywords":"",
+		"generator":"Export Kit v1.2.8"
+	},
+	"layers":[
+		{ 
+			"type":"image",  
+			"src":"../skins/psdfile/background.png", 
+			"name":"background", 
+			"x":0, 
+			"y":0, 
+			"width":1080, 
+			"height":1350  
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"left",
+			"color":"0x000000", 
+			"size":25, 
+			"name":"your_invited_to", 
+			"x":384, 
+			"y":176, 
+			"width":239, 
+			"height":18 , 
+			"text":"Your Invited To"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"left",
+			"color":"0x000000", 
+			"size":25, 
+			"name":"addre", 
+			"x":237, 
+			"y":996, 
+			"width":605, 
+			"height":23 , 
+			"text":"Road no 25, Sundar Ngr Mp, Bhopal, India"  
+		},
+		{ 
+			"type":"text", 
+			"font":"ArialMT",
+			"justification":"center",
+			"color":"0xA81000", 
+			"size":25, 
+			"name":"qutes", 
+			"x":269, 
+			"y":1080, 
+			"width":529, 
+			"height":114 , 
+			"text":"One day, in your search for happiness,\r you discover a partner by your side, \rand you realize that your happiness \rhas come to help you search"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"left",
+			"color":"0x000000", 
+			"size":31, 
+			"name":"the_wedding_of", 
+			"x":354, 
+			"y":225, 
+			"width":299, 
+			"height":28 , 
+			"text":"The Wedding Of"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"left",
+			"color":"0x000000", 
+			"size":41, 
+			"name":"date", 
+			"x":333, 
+			"y":918, 
+			"width":379, 
+			"height":37 , 
+			"text":"October 8, 2023"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"left",
+			"color":"0x000000", 
+			"size":31, 
+			"name":"time", 
+			"x":358, 
+			"y":865, 
+			"width":321, 
+			"height":22 , 
+			"text":"8 AM To 12:00 PM"  
+		},
+		{ 
+			"type":"text", 
+			"font":"GreatVibes-Regular",
+			"justification":"left",
+			"color":"0x000000", 
+			"size":140, 
+			"name":"sean", 
+			"x":265, 
+			"y":365, 
+			"width":320, 
+			"height":127 , 
+			"text":"Sean"  
+		},
+		{ 
+			"type":"text", 
+			"font":"GreatVibes-Regular",
+			"justification":"left",
+			"color":"0x000000", 
+			"size":140, 
+			"name":"amile", 
+			"x":493, 
+			"y":635, 
+			"width":320, 
+			"height":118 , 
+			"text":"Amile"  
+		},
+		{ 
+			"type":"text", 
+			"font":"GreatVibes-Regular",
+			"justification":"left",
+			"color":"0x000000", 
+			"size":105, 
+			"name":"and", 
+			"x":505, 
+			"y":523, 
+			"width":60, 
+			"height":79 , 
+			"text":"&"  
+		}
+
+	]
+}

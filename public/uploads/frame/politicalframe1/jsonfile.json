@@ -1,0 +1,76 @@
+{
+	"name":"political",
+	"path":" political/",
+	"info":{
+		"description":"Normal",
+		"file":"political",
+		"date":"Uncalibrated",
+		"title":"",
+		"author":"",
+		"keywords":"",
+		"generator":"Export Kit v1.2.8"
+	},
+	"layers":[
+		{ 
+			"type":"image",  
+			"src":"../skins/political/background.png", 
+			"name":"background", 
+			"x":-1, 
+			"y":5, 
+			"width":1081, 
+			"height":1081  
+		},
+		{ 
+			"type":"image",  
+			"src":"../skins/political/image.png", 
+			"name":"image", 
+			"x":707, 
+			"y":604, 
+			"width":377, 
+			"height":404  
+		},
+		{ 
+			"type":"text", 
+			"font":"Montserrat-SemiBold",
+			"justification":"center",
+			"lineHeight":124,
+			"color":"0xFFFFFF", 
+			"size":34, 
+			"name":"name", 
+			"x":138, 
+			"y":965, 
+			"width":187, 
+			"height":23 , 
+			"text":"Your Name"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Montserrat-Regular",
+			"justification":"center",
+			"lineHeight":124,
+			"color":"0xFFFFFF", 
+			"size":26, 
+			"name":"edittext", 
+			"x":686, 
+			"y":1033, 
+			"width":107, 
+			"height":19 , 
+			"text":"Edit Text"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Montserrat-Light",
+			"justification":"center",
+			"lineHeight":124,
+			"color":"0xFFFFFF", 
+			"size":24, 
+			"name":"postmaker", 
+			"x":211, 
+			"y":1032, 
+			"width":127, 
+			"height":18 , 
+			"text":"Post Maker"  
+		}
+
+	]
+}

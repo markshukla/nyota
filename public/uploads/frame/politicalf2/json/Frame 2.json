@@ -1,0 +1,118 @@
+{
+	"name":"Frame 2",
+	"path":" Frame 2/",
+	"info":{
+		"description":"Normal",
+		"file":"Frame 2",
+		"date":"sRGB",
+		"title":"",
+		"author":"",
+		"keywords":"",
+		"generator":"Export Kit v1.2.8"
+	},
+	"layers":[
+		{ 
+			"type":"image",  
+			"src":"../skins/Frame 2/background.png", 
+			"name":"background", 
+			"x":0, 
+			"y":0, 
+			"width":1080, 
+			"height":1080  
+		},
+		{ 
+			"type":"image",  
+			"src":"../skins/Frame 2/logo.png", 
+			"name":"logo", 
+			"x":795, 
+			"y":783, 
+			"width":266, 
+			"height":266  
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"center",
+			"lineHeight":69,
+			"color":"0x000000", 
+			"size":22, 
+			"name":"facebook", 
+			"x":70, 
+			"y":1056, 
+			"width":165, 
+			"height":16 , 
+			"text":"abhisarsharma"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"center",
+			"lineHeight":69,
+			"color":"0xFFFFFF", 
+			"size":26, 
+			"name":"number", 
+			"x":609, 
+			"y":1013, 
+			"width":150, 
+			"height":19 , 
+			"text":"6263020998"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"center",
+			"lineHeight":69,
+			"color":"0x000000", 
+			"size":22, 
+			"name":"instagram", 
+			"x":310, 
+			"y":1055, 
+			"width":161, 
+			"height":16 , 
+			"text":"abhisarsharma"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"center",
+			"lineHeight":69,
+			"color":"0x000000", 
+			"size":23, 
+			"name":"twitter", 
+			"x":564, 
+			"y":1056, 
+			"width":165, 
+			"height":17 , 
+			"text":"abhisarsharma"  
+		},
+		{ 
+			"type":"text", 
+			"font":"ArialMT",
+			"justification":"center",
+			"lineHeight":69,
+			"color":"0xFFFFFF", 
+			"size":33, 
+			"name":"designation", 
+			"x":72, 
+			"y":1008, 
+			"width":303, 
+			"height":31 , 
+			"text":"Political Designation"  
+		},
+		{ 
+			"type":"text", 
+			"font":"Arial-BoldMT",
+			"justification":"center",
+			"lineHeight":69,
+			"color":"0xFFFFFF", 
+			"size":51, 
+			"name":"name", 
+			"x":54, 
+			"y":941, 
+			"width":319, 
+			"height":39 , 
+			"text":"Owner Name"  
+		}
+
+	]
+}
